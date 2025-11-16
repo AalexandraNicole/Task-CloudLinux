@@ -52,6 +52,10 @@ What specific version must users install?
 
 Does the install script require root privileges?
 
+Are error messages standardized and documented somewhere?
+
+
+
 # Task 2
 
 ### Uninstalling the Package
