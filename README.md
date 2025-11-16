@@ -44,7 +44,7 @@ Use the package manager for RPM-based systems:
 sudo yum install <package>-<version>
 ```
 
-### Questions for the team
+#### Questions for the team
 
 What is the exact name of the dependency package?
 
